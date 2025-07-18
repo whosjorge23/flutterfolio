@@ -1,0 +1,21 @@
+
+  [
+    {
+      "title": "Bloc vs Provider: Choosing the Right State Management",
+      "abstract": "Which state management approach should you use in Flutter? We compare Bloc and Provider for different use cases.",
+      "content": "assets/json/bloc_vs_provider.md",
+      "datePublished": "2025-07-14"
+    },
+    {
+      "title": "How to Optimize Flutter App Performance",
+      "abstract": "Tips and techniques to improve rendering speed, reduce jank, and use memory efficiently in Flutter.",
+      "content": "assets/json/optimize_flutter_performance.md",
+      "datePublished": "2025-07-13"
+    },
+    {
+      "title": "Building a Custom Flutter Widget from Scratch",
+      "abstract": "Learn how to create your own reusable custom widgets in Flutter and when to do so.",
+      "content": "assets/json/build_a_custom_flutter_widget_from_scratch.md",
+      "datePublished": "2025-07-12"
+    }
+  ]
