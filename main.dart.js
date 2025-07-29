@@ -91987,7 +91987,7 @@ A.dC(r,!1,t.ce).bH(B.z1)}},
 $S:0}
 A.asd.prototype={
 $1(a){var s=null
-this.a.c.an(t.Pu).f.LL(A.aA9(s,s,s,B.ff,s,B.V,s,A.aA("Testo copiato negli appunti!",s,s,s,A.by().$0(),s,s),s,B.cR,s,s,s,s,s,s,s,s,s))},
+this.a.c.an(t.Pu).f.LL(A.aA9(s,s,s,B.ff,s,B.V,s,A.aA("Text copied to clipboard!",s,s,s,A.by().$0(),s,s),s,B.cR,s,s,s,s,s,s,s,s,s))},
 $S:21}
 A.asf.prototype={
 $2(a,b){var s=null,r=b.b
@@ -92033,7 +92033,7 @@ q.bH(q.c.W_(B.dc))}else{s=B.t.a
 r=p.a.a===s
 if(r)s=p.e.a===s
 else s=!1
-if(s){q.bH(p.anQ("Imposta una durata per il timer."))
+if(s){q.bH(p.anQ("Set a timer duration."))
 return}if(r)q.bH(p.aof(p.e,null))
 p=Date.now()
 s=q.c
