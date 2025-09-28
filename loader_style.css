@@ -23,6 +23,7 @@ body, html {
       color: #EBF0F1;
       position: relative;
       z-index: 2;
+        animation: pulseTextOut 1.5s infinite ease-in-out;
   }
 
   .bracket {
@@ -56,5 +57,17 @@ body, html {
         100% {
             transform: scale(1.6);
             opacity: 0;
+        }
+    }
+
+    @keyframes pulseTextOut {
+        0% {
+            z-index: 2;
+        }
+        50% {
+            z-index: 2;
+        }
+        100% {
+            z-index: -1000;
         }
     }
