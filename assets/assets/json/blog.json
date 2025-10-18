@@ -6,5 +6,11 @@
       "content": "assets/json/one_codebase_to_rule_them_all.md",
       "datePublished": "2025-10-14",
       "slug": "one-codebase-to-rule-them-all"
+    },{
+      "title": "From Code to the Web",
+      "abstract": "A Step-by-Step Guide to Flutter Web Deployment",
+      "content": "assets/json/from_code_to_the_web.md",
+      "datePublished": "2025-10-18",
+      "slug": "from-code-to-the-web"
     }
   ]
