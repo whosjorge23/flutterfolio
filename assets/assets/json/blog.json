@@ -2,13 +2,13 @@
   [
     {
       "title": "One Codebase to Rule Them All",
-      "abstract": "The Power of Flutter in Multi-Platform Development",
+      "abstract": "Flutter is a versatile framework that enables developers to create high-performance, multi-platform applications using a single Dart codebase. By leveraging its custom rendering engine, Skia, Flutter ensures consistent UI and predictable performance across platforms like Android, iOS, Web, Windows, macOS, and Linux. Its widget-based architecture promotes code reusability, while tools like Hot Reload enhance productivity. With centralized build commands and support for platform-specific adaptations, Flutter redefines cross-platform development, offering a seamless balance between efficiency and performance.",
       "content": "assets/json/one_codebase_to_rule_them_all.md",
       "datePublished": "2025-10-14",
       "slug": "one-codebase-to-rule-them-all"
     },{
       "title": "From Code to the Web",
-      "abstract": "A Step-by-Step Guide to Flutter Web Deployment",
+      "abstract": "This section provides a detailed guide on deploying a Flutter web application. It explains how to create a Flutter web project, test it locally, build it for production using WebAssembly (Wasm), and deploy it on GitHub Pages. The guide includes commands for enabling web support, running the app locally, building the app with the --wasm flag for optimized performance, and deploying it manually or via GitHub Actions. It also covers setting up a custom domain for GitHub Pages.",
       "content": "assets/json/from_code_to_the_web.md",
       "datePublished": "2025-10-18",
       "slug": "from-code-to-the-web"
