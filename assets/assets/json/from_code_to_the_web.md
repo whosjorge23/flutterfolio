@@ -141,12 +141,12 @@ GitHub Pages will serve your Flutter web app under your custom domain.
 
 ### Conclusion
 
-In just a few steps, you’ve gone from a blank Flutter project to a **fully deployed web app** hosted on **GitHub Pages** — free, fast, and version-controlled.
+In just a few steps, you’ve gone from a blank Flutter project to a **fully deployed web app** hosted on **GitHub Pages**: free, fast, and version-controlled.
 
 With the `--wasm` build option, your Flutter web apps run smoother than ever, bringing native-level performance to the browser.
 
 **A single codebase, one command, and your app is online.**  
-Welcome to the future of web development, powered by Flutter.
+Welcome to the future of web development, powered by Flutter. 
 
 ---
 
