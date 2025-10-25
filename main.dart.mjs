@@ -580,12 +580,13 @@ class CompiledApp {
       _1429: (x0,x1) => x0.send(x1),
       _1430: x0 => x0.send(),
       _1431: x0 => x0.getAllResponseHeaders(),
-      _1432: (x0,x1,x2,x3,x4,x5) => ({method: x0,headers: x1,body: x2,credentials: x3,redirect: x4,signal: x5}),
-      _1433: (x0,x1) => globalThis.fetch(x0,x1),
-      _1434: (x0,x1) => x0.get(x1),
-      _1435: f => finalizeWrapper(f, function(x0,x1,x2) { return dartInstance.exports._1435(f,arguments.length,x0,x1,x2) }),
-      _1436: (x0,x1) => x0.forEach(x1),
-      _1438: () => new AbortController(),
+      _1432: () => new AbortController(),
+      _1433: x0 => x0.abort(),
+      _1434: (x0,x1,x2,x3,x4,x5) => ({method: x0,headers: x1,body: x2,credentials: x3,redirect: x4,signal: x5}),
+      _1435: (x0,x1) => globalThis.fetch(x0,x1),
+      _1436: (x0,x1) => x0.get(x1),
+      _1437: f => finalizeWrapper(f, function(x0,x1,x2) { return dartInstance.exports._1437(f,arguments.length,x0,x1,x2) }),
+      _1438: (x0,x1) => x0.forEach(x1),
       _1439: x0 => x0.getReader(),
       _1440: x0 => x0.read(),
       _1441: x0 => x0.cancel(),
@@ -774,6 +775,7 @@ class CompiledApp {
       _8560: x0 => x0.statusText,
       _8561: x0 => x0.headers,
       _8562: x0 => x0.body,
+      _12190: x0 => x0.name,
 
     };
 

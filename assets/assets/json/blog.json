@@ -12,5 +12,11 @@
       "content": "assets/json/from_code_to_the_web.md",
       "datePublished": "2025-10-18",
       "slug": "from-code-to-the-web"
-    }
+    },{
+    "title": "Flavoring in Flutter",
+    "abstract": "Flutter flavors allow developers to create multiple versions of an app from a single codebase, each with its own configurations, assets, and settings. This is particularly useful for managing different environments (development, staging, production) or branding variations (free vs. paid versions). By defining flavors in the build configuration files and using conditional imports, developers can easily switch between different app versions during development and deployment. This approach enhances code maintainability and streamlines the release process.",
+    "content": "assets/json/flavoring-in-flutter.md",
+    "datePublished": "2025-10-25",
+    "slug": "flavoring-in-flutter"
+  }
   ]
