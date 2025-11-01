@@ -1,6 +1,12 @@
 
   [
-
+    {
+      "title": "Mastering Cubit for Flutter State Management",
+      "abstract": "Cubit is a lightweight state management solution for Flutter applications, built on top of the Bloc library. It simplifies state management by providing a straightforward API for managing and emitting states without the boilerplate associated with traditional Bloc implementations. This article explores the core concepts of Cubit, including state creation, state emission, and how to integrate Cubit into Flutter widgets using BlocBuilder and BlocListener. Additionally, it covers best practices for structuring Cubit classes and handling complex state transitions, making it an essential read for developers looking to enhance their Flutter applications with efficient state management.",
+      "content": "assets/json/mastering_cubit_flutter.md",
+      "datePublished": "2025-11-01",
+      "slug": "mastering-cubit-flutter"
+    },
     {
       "title": "Flavoring in Flutter",
       "abstract": "Flutter flavors allow developers to create multiple versions of an app from a single codebase, each with its own configurations, assets, and settings. This is particularly useful for managing different environments (development, staging, production) or branding variations (free vs. paid versions). By defining flavors in the build configuration files and using conditional imports, developers can easily switch between different app versions during development and deployment. This approach enhances code maintainability and streamlines the release process.",
