@@ -1,6 +1,13 @@
 
   [
     {
+      "title": "Local Notifications in Flutter",
+      "abstract": "Implementing local notifications in Flutter applications enhances user engagement by providing timely alerts and updates directly on the user's device. This article explores the use of the flutter_local_notifications package, a popular choice for managing local notifications in Flutter. It covers the setup process, including adding the package to your project, configuring notification channels for Android, and requesting permissions for iOS. The guide also delves into scheduling notifications, customizing their appearance, and handling user interactions. By following this comprehensive guide, developers can effectively integrate local notifications into their Flutter apps, improving user experience and retention.",
+      "content": "assets/json/flutter_local_notifications_guide.md",
+      "datePublished": "2025-11-22",
+      "slug": "flutter-local-notifications-guide"
+    },
+    {
       "title": "Navigation in Flutter with GoRouter",
       "abstract": "GoRouter is a powerful routing package for Flutter that simplifies navigation and deep linking in Flutter applications. It provides a declarative approach to defining routes, making it easier to manage complex navigation scenarios. This article explores the key features of GoRouter, including route definitions, nested navigation, and handling dynamic parameters. It also covers best practices for integrating GoRouter into your Flutter projects, ensuring a seamless user experience across different screens and states.",
       "content": "assets/json/navigation_in_flutter_with_gorouter.md",
