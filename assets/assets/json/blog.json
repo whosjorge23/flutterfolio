@@ -1,6 +1,13 @@
 
   [
     {
+      "title": "Generate App Icons in Flutter",
+      "abstract": "Flutter Launcher Icons is a popular package that simplifies the process of generating app icons for Flutter applications. This article provides a comprehensive guide on how to use the flutter_launcher_icons package to create and customize app icons for both Android and iOS platforms. It covers installation, configuration options, and best practices for ensuring your app icons look great across different devices and screen sizes. By following this guide, developers can efficiently manage app icon generation, saving time and effort in the development process.",
+      "content": "assets/json/flutter_launcher_icons_article.md",
+      "datePublished": "2025-11-29",
+      "slug": "flutter-launcher-icons"
+    },
+    {
       "title": "Local Notifications in Flutter",
       "abstract": "Implementing local notifications in Flutter applications enhances user engagement by providing timely alerts and updates directly on the user's device. This article explores the use of the flutter_local_notifications package, a popular choice for managing local notifications in Flutter. It covers the setup process, including adding the package to your project, configuring notification channels for Android, and requesting permissions for iOS. The guide also delves into scheduling notifications, customizing their appearance, and handling user interactions. By following this comprehensive guide, developers can effectively integrate local notifications into their Flutter apps, improving user experience and retention.",
       "content": "assets/json/flutter_local_notifications_guide.md",
