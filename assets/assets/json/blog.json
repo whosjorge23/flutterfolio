@@ -1,6 +1,12 @@
 
   [
     {
+      "title": "Native Splash Screen in Flutter",
+      "abstract": "Creating a native splash screen in Flutter enhances the user experience by providing a visually appealing introduction to the app while it loads. This article explores the flutter_native_splash package, which simplifies the process of adding splash screens to Flutter applications. It covers installation, configuration options, and best practices for designing splash screens that align with the app's branding. By following this guide, developers can efficiently implement native splash screens for both Android and iOS platforms, ensuring a smooth and engaging startup experience for users.",
+      "content": "assets/json/flutter_native_splash_article.md",
+      "datePublished": "2025-12-13",
+      "slug": "flutter-native-splash-article"
+    },{
       "title": "Generate App Icons in Flutter",
       "abstract": "Flutter Launcher Icons is a popular package that simplifies the process of generating app icons for Flutter applications. This article provides a comprehensive guide on how to use the flutter_launcher_icons package to create and customize app icons for both Android and iOS platforms. It covers installation, configuration options, and best practices for ensuring your app icons look great across different devices and screen sizes. By following this guide, developers can efficiently manage app icon generation, saving time and effort in the development process.",
       "content": "assets/json/flutter_launcher_icons_article.md",
